@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MADClass2021</string>
+    <string name="textview">php text</string>
+    <string name="textview2">phph2 </string>
+    <string name="message_from_server">Message from server</string>
+    <string name="please_prove_your_email_adress_to_mad_server">Please prove your Email Adress to MAD server</string>
+    <string name="example_ihu_edu_gr">Example@ihu.edu.gr</string>
+    <string name="button">Button</string>
+    <string name="textview3">TextView</string>
+    <string name="textview4">TextView</string>
+    <string name="menu1">menu1</string>
+    <string name="menu_option_1">MENU OPTION 1</string>
+    <string name="menu_option_2">MENU OPTION 2</string>
+    <string name="menu_option_3">MENU OPTION 3</string>
+</resources>
